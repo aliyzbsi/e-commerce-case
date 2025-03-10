@@ -1,0 +1,9 @@
+{
+  "name": "e-commerce-case",
+  "private": true,
+  "workspaces": [
+    "basket-remote",
+    "products-remote",
+    "host-app"
+  ]
+}
