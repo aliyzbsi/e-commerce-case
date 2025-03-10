@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>micro-frontend started</p>
+      <p>micro-frontend starte</p>
     </>
   );
 }
