@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "@babel/preset-env", // Modern JavaScript'i eski tarayıcılar için dönüştür
+    [
+      "@babel/preset-react",
+      {
+        "runtime": "automatic" // React'ı otomatik olarak import et (React 17+ için)
+      }
+    ],
+    "@babel/preset-typescript" // TypeScript'i JavaScript'e dönüştür
+  ]
+}
