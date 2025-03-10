@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <p>micro-frontend starte</p>
+      <p>micro-frontend started test/v1.0.0</p>
     </>
   );
 }
